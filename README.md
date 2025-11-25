@@ -70,7 +70,7 @@ Explicación de la solución
 - Funciones auxiliares en utils.py hacen el cálculo de anomalías y tendencias
 - Bot conversacional responde preguntas específicas usando reglas y busca en datos
 - El sistema es modular para facilitar futuras mejoras (ej., integración GPT)
-- 
+  
 Referencias
 
 - Streamlit Docs: https://docs.streamlit.io/
