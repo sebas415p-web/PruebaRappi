@@ -15,12 +15,13 @@ sistema-rappi/
 ├── app.py                     # Script principal de la app Streamlit
 ├── requirements.txt           # Librerías necesarias
 ├── README.txt                 # Esta documentación (formato texto)
+
 ├── data/
-│   └── Sistema-de-Analisis-...csv  # Dataset de métricas (no versionado en git)
+│──  Sistema-de-Analisis-...csv  # Dataset de métricas (
 ├── utils.py                   # Funciones auxiliares (transformaciones, métricas)
 ├── config.py                  # Variables globales y configuración
 ├── test_analysis.py           # Tests unitarios
-└── .gitignore                 # Archivos ignorados en Git
+
 
 Cómo ejecutar el proyecto
 
